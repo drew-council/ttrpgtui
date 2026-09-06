@@ -48,11 +48,11 @@ tempfile = "3.13.0"
 name = "ttrpgtui"
 version = "0.1.0"
 description = "TUI for tracking certain tabletop RPG things"
-authors = ["bizmythy <andrew.p.council@gmail.com>"]
+authors = ["drew-council <andrew.p.council@gmail.com>"]
 license = "MIT"
 edition = "2024"
 build = "build.rs"
-repository = "https://github.com/bizmythy/ttrpgtui"
+repository = "https://github.com/drew-council/ttrpgtui"
 
 # Read the optimization guideline for more details: https://ratatui.rs/recipes/apps/release-your-app/#optimizations
 [profile.release]

@@ -94,7 +94,7 @@ Undo and redo track creature mutations, including health changes, creature renam
 
 ## License
 
-Copyright (c) bizmythy <andrew.p.council@gmail.com>
+Copyright (c) drew-council <andrew.p.council@gmail.com>
 
 This project is licensed under the MIT license ([LICENSE] or <http://opensource.org/licenses/MIT>)
 
